@@ -4,4 +4,4 @@ KaribuNet
 
 #### License
 
-mit
+mit# frappe-custom-app

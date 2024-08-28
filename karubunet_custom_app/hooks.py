@@ -227,3 +227,64 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {
+        "doctype": "Role"
+    }, 
+    {
+        "doctype": "Workflow"
+    }, 
+    
+    {
+        "doctype": "Client Script"
+    },
+    
+    {
+        "doctype": "Workflow State"
+    },
+    {
+        "doctype": "Workflow Action Master"
+    },
+    {
+        "doctype": "Assignment Rule",
+    },
+    {
+        "doctype": "Notification",
+    },
+    {
+        "doctype": "Email Template",
+    }, 
+    {
+        "doctype": "Print Format",
+    },
+    {
+        "doctype": "Category 1",
+    },
+    {
+        "doctype": "Category 2",
+    },
+    {
+        "doctype": "Category 3",
+    },
+    {
+        "doctype": "Category 4",
+    },
+    {
+        "doctype": "Issue Type",
+    },
+    {
+        "doctype": "Task Type",
+    },
+    {
+        "doctype": "Task Result",
+    },
+    {
+        "doctype": "Server Script",
+    },
+    {
+        "doctype": "Property Setter"
+    }
+]
+
+
+
